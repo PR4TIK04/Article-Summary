@@ -23,4 +23,4 @@ A React-based web application that summarizes articles using a Rapid API. This t
 ## Contact
 
 - **GitHub**: [PR4TIK04](https://github.com/PR4TIK04)  
-- **Email**: [your.email@example.com](mailto:chauhanpratik21444@gmail.com)  
+
